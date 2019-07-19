@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="title_activity_custom_list">CustomList</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>
